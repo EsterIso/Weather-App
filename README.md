@@ -41,12 +41,20 @@ This project is a Weather Application in Java, which consists of backend and fro
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Playing TicTacToe vs Friend: <br/>
+Launch the app: <br/>
 <img src="https://i.imgur.com/OZGbqGC.png" height="50%" width="50%" alt=""/>
 <br />
 <br />
-Playing TicTacToe vs CPU:  <br/>
-<img src="https://i.imgur.com/feBzoW2.png" height="80%" width="80%" alt=""/>
+Searching for New York's Weather:  <br/>
+<img src="https://i.imgur.com/KT1vy40.png" height="50%" width="50%" alt=""/>
+<br />
+<br />
+Searching for Iceland's Weather:  <br/>
+<img src="https://i.imgur.com/iarbZ2w.png" height="50%" width="50%" alt=""/>
+<br />
+<br />
+Dark Mode toggled:  <br/>
+<img src="https://i.imgur.com/QO3MYm0.png" height="50%" width="50%" alt=""/>
 <br />
 <br />
 
