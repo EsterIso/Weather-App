@@ -33,6 +33,10 @@ This project is a Weather Application in Java, which consists of backend and fro
 - <b>JPanel</b>
 - <b>Hashmap</b>
 - <b>Json</b>
+- <b>HTTP Connection Utilities</b>
+- <b>Date and Time Utilities</b>
+- <b>Image I/O Utilities</b>
+
 
 <h2>Environments Used </h2>
 
